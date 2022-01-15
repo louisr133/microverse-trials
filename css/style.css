@@ -1,0 +1,17 @@
+#main {
+    width: 100%;
+    padding: 10px;
+}
+
+#image { 
+    max-width: 100%; 
+    max-width: 300px; 
+    height: auto; 
+    display: block;
+    margin: auto;
+    object-fit: contain;
+  }
+
+#image-div{
+    display: block;
+}
